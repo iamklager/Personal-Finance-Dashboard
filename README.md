@@ -7,6 +7,15 @@ A dashboard to monitor your personal finances. Built in R using Shiny.
 This tool allows the user to analyze their personal finances on a monthly basis.  
 It consists of a [Summary](#summary) tab in which a summary of the development of one's finances is shown, an [Income](#income) tab in which the user's income is displayed, an [Expenses](#expenses) tab which is virtually identical to the income tab but displays expenses, and the [Investments](#investments) tab which provides an overview of one's investments and their development.
 
+## Demo
+
+<p align="center">
+  <img src="https://github.com/iamklager/Personal-Finance-Dashboard/raw/master/.github/summary.png" width="270" />
+  <img src="https://github.com/iamklager/Personal-Finance-Dashboard/raw/master/.github/income.png" width="270" />
+  <img src="https://github.com/iamklager/Personal-Finance-Dashboard/raw/master/.github/expenses.png" width="270" />
+  <img src="https://github.com/iamklager/Personal-Finance-Dashboard/raw/master/.github/investments.png" width="270" />
+</p>
+
 ## Data
 
 The tool uses the .xlsx files found in the *Data* folder as its source for incomes, expenses and the assets held by the user (note that daily price data is queried from Yahoo Finance.  
