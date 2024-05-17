@@ -9,11 +9,11 @@ It consists of a [Summary](#summary) tab in which a summary of the development o
 
 ## Demo
 
-<p align="center">
-  <img src="https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/summary.png" width="100" />
-  <img src="https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/income.png" width="100" />
-  <img src="https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/expenses.png" width="100" />
-  <img src="https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/investments.png" width="100" />
+<p align = "center">
+  <img src = "https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/summary.png" width = "200" />
+  <img src = "https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/income.png" width = "200" />
+  <img src = "https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/expenses.png" width = "200" />
+  <img src = "https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/investments.png" width = "200" />
 </p>
 
 ## Data
