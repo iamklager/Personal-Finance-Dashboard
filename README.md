@@ -16,6 +16,8 @@ It consists of a [Summary](#summary) tab in which a summary of the development o
   <img src = "https://github.com/iamklager/Personal-Finance-Dashboard/raw/main/.github/investments.png" width = "200" />
 </p>
 
+See the [demo video](https://youtu.be/CImvWCG6Xrw).
+
 ## Data
 
 The tool uses the .xlsx files found in the *Data* folder as its source for incomes, expenses and the assets held by the user (note that daily price data is queried from Yahoo Finance.  
